@@ -2,3 +2,6 @@
 *.htm linguist-detectable=false
 *.html linguist-detectable=false
 *.js linguist-detectable=false
+*.wl linguist-detectable=false
+*.wls linguist-detectable=false
+*.nb linguist-detectable=false   
